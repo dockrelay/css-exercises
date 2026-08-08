@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+.button_A
+    {
+      background-color: black;
+      color: white;
+    }
+
+
+.button_B
+    {
+        background-color: yellow;
+        color: black;
+    }
+
+
+.button_A,
+.button_B
+    { 
+        font-size: 44; 
+        width: 200px;
+        height: 50px;
+        font-size: 22px;
+        font-family:'Times New Roman', Times, serif
+    }    
